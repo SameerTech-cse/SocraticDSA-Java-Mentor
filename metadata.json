@@ -1,0 +1,7 @@
+{
+  "name": "SocraticDSA - Java Mentor",
+  "description": "Expert Socratic DSA mentor for Java developers. Guides students to optimal solutions through complexity analysis, targeted hints, and reasoning prompts without spoiling code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
